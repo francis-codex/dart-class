@@ -18,7 +18,7 @@ void main() {
   print(cars);
 
   //add many things
-  cars.addAll({"cane": "hyunda", "codex": "truck"});
+  cars.addAll({"cane": "tesla", "codex": "truck"});
   print(cars);
 
   // remove everything
