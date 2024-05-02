@@ -3,10 +3,12 @@
 void main() {
   // # variables
 
-  // var name = "john doe";
+  var name = "uche";
   // String name = "francis codex";
 
-  // print(name);
+  print(name);
+
+
 
   // # intergers
 
@@ -18,8 +20,8 @@ void main() {
   // # dynamic
 
   // dynamic firstname = "tim";
+  //  // print(firstname);
 
-  // print(firstname);
 
   //  # const amd final keywords
 
